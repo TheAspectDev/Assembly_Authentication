@@ -1,4 +1,5 @@
 Basic implementation of User/Password login system in **Assembly**
+Made for **Educational** Purposes, is not copyrighted, and not preferred to use it anywhere or any kind of production projects
 
 # Usage
 - Clone the repository
