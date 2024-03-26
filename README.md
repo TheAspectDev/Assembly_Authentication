@@ -12,4 +12,4 @@ Made for **Educational** Purposes, is not copyrighted, and not preferred to use 
 - sudo apt install nasm
 - Clone the repository
 - Locate the to cloned file
-- Run ``nasm -f elf64 -o cfep.o cfep.asm && ld cfep.o -o cfep && sudo chmod +x ./cfep && ./cfep`` to compile and run
+- Run ``$ nasm -f elf64 -o cfep.o cfep.asm && ld cfep.o -o cfep && sudo chmod +x ./cfep && ./cfep`` to compile and run
